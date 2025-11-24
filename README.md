@@ -7,6 +7,7 @@ Python tool to track food expiring and reduce household waste, developed module 
 Food waste is a global issue that starts in the household. Individuals frequently purchase groceries but lose track of expiry dates, leading to spoilage. There is a need for a digital solution that helps users monitor their food inventory and alerts them before items expire.
 
 ✨*OBJECTIVE* 
+
 • Develop a modular Python application to track grocery items.
 
 • Implement an alert system based on date calculation.
